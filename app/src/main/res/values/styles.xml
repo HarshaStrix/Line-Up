@@ -7,7 +7,7 @@
         <!-- App branding color for the app bar -->
         <item name="colorPrimary">#FFC107</item>
         <!-- Darker variant for the status bar and contextual app bars -->
-        <item name="colorPrimaryDark">#FFA000</item>
+        <item name="colorPrimaryDark">#FF9800</item>
         <!-- Theme UI controls like checkboxes and text fields -->
         <item name="colorAccent">#FFA000</item>
     </style>

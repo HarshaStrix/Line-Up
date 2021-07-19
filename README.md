@@ -11,7 +11,7 @@
 <img src="images/1.jpg" width="270" height="590">
 <hr />
 
-### New Task Function
+### New Task Function (Add Button)
 <img src="images/2.jpg" width="270" height="590">
 <hr />
 

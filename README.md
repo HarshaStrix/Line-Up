@@ -8,16 +8,16 @@
 
 ## Screenshots
 ### HomeScreen
-<img src="images/1.jpg" width="270" height="535">
+<img src="images/1.jpg" width="270" height="590">
 <hr />
 
 ### New Task Function
-<img src="images/2.jpg" width="270" height="535">
+<img src="images/2.jpg" width="270" height="590">
 <hr />
 
 ### Right Swipe - Edit Option
-<img src="images/3.jpg" width="270" height="535">
+<img src="images/3.jpg" width="270" height="590">
 <hr />
 
 ### Left Swipe - Delete Option
-<img src="images/4.jpg" width="270" height="535">
+<img src="images/4.jpg" width="270" height="590">

@@ -6,6 +6,12 @@
   You can use it to manage everything from grocery lists to work-related tasks and more.
 * Uses MYSQLite for Database storage.
 
+## Author
+* Sree Harsha - aka [HarshaStrix][website]
+* My Portfolio Website - [(myfolio-strixblog)][website]
+
+[website]: https://myfolio-strixblog.web.app/
+
 ## Screenshots
 ### HomeScreen
 <img src="images/1.jpg" width="270" height="590">
